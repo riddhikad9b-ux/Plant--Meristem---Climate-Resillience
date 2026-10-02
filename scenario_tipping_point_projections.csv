@@ -1,0 +1,151 @@
+Crop,Cultivar_Type,Heat_Wave_Intensity,Water_Retention_Days,Lodging_Risk_Index,Meristemic_Resilience_Score,Structural_Status
+Rice,Standard Cultivar,60,3,34.35,65.65,Stable Meristem
+Rice,Standard Cultivar,60,6,35.7,64.3,Stable Meristem
+Rice,Standard Cultivar,60,9,37.05,62.95,Stable Meristem
+Rice,Standard Cultivar,60,12,38.4,61.6,Stable Meristem
+Rice,Standard Cultivar,60,15,39.75,60.25,Stable Meristem
+Rice,Standard Cultivar,70,3,39.85,60.15,Stable Meristem
+Rice,Standard Cultivar,70,6,41.2,58.8,Stable Meristem
+Rice,Standard Cultivar,70,9,42.55,57.45,Stable Meristem
+Rice,Standard Cultivar,70,12,43.9,56.1,Stable Meristem
+Rice,Standard Cultivar,70,15,45.25,54.75,Stable Meristem
+Rice,Standard Cultivar,80,3,45.35,54.65,Stable Meristem
+Rice,Standard Cultivar,80,6,46.7,53.3,Stable Meristem
+Rice,Standard Cultivar,80,9,48.05,51.95,Stable Meristem
+Rice,Standard Cultivar,80,12,49.4,50.6,Stable Meristem
+Rice,Standard Cultivar,80,15,50.75,49.25,Tipping Point Exceeded (High Risk)
+Rice,Standard Cultivar,90,3,50.85,49.15,Tipping Point Exceeded (High Risk)
+Rice,Standard Cultivar,90,6,52.2,47.8,Tipping Point Exceeded (High Risk)
+Rice,Standard Cultivar,90,9,53.55,46.45,Tipping Point Exceeded (High Risk)
+Rice,Standard Cultivar,90,12,54.9,45.1,Tipping Point Exceeded (High Risk)
+Rice,Standard Cultivar,90,15,56.25,43.75,Tipping Point Exceeded (High Risk)
+Rice,Standard Cultivar,100,3,56.35,43.65,Tipping Point Exceeded (High Risk)
+Rice,Standard Cultivar,100,6,57.7,42.3,Tipping Point Exceeded (High Risk)
+Rice,Standard Cultivar,100,9,59.05,40.95,Tipping Point Exceeded (High Risk)
+Rice,Standard Cultivar,100,12,60.4,39.6,Tipping Point Exceeded (High Risk)
+Rice,Standard Cultivar,100,15,61.75,38.25,Tipping Point Exceeded (High Risk)
+Rice,Climate-Resilient Line (-15% Risk),60,3,29.2,70.8,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),60,6,30.35,69.66,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),60,9,31.49,68.51,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),60,12,32.64,67.36,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),60,15,33.79,66.21,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),70,3,33.87,66.13,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),70,6,35.02,64.98,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),70,9,36.17,63.83,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),70,12,37.31,62.69,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),70,15,38.46,61.54,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),80,3,38.55,61.45,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),80,6,39.7,60.3,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),80,9,40.84,59.16,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),80,12,41.99,58.01,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),80,15,43.14,56.86,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),90,3,43.22,56.78,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),90,6,44.37,55.63,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),90,9,45.52,54.48,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),90,12,46.67,53.33,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),90,15,47.81,52.19,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),100,3,47.9,52.1,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),100,6,49.05,50.95,Stable Meristem
+Rice,Climate-Resilient Line (-15% Risk),100,9,50.19,49.81,Tipping Point Exceeded (High Risk)
+Rice,Climate-Resilient Line (-15% Risk),100,12,51.34,48.66,Tipping Point Exceeded (High Risk)
+Rice,Climate-Resilient Line (-15% Risk),100,15,52.49,47.51,Tipping Point Exceeded (High Risk)
+Sugarcane,Standard Cultivar,60,3,34.35,65.65,Stable Meristem
+Sugarcane,Standard Cultivar,60,6,35.7,64.3,Stable Meristem
+Sugarcane,Standard Cultivar,60,9,37.05,62.95,Stable Meristem
+Sugarcane,Standard Cultivar,60,12,38.4,61.6,Stable Meristem
+Sugarcane,Standard Cultivar,60,15,39.75,60.25,Stable Meristem
+Sugarcane,Standard Cultivar,70,3,39.85,60.15,Stable Meristem
+Sugarcane,Standard Cultivar,70,6,41.2,58.8,Stable Meristem
+Sugarcane,Standard Cultivar,70,9,42.55,57.45,Stable Meristem
+Sugarcane,Standard Cultivar,70,12,43.9,56.1,Stable Meristem
+Sugarcane,Standard Cultivar,70,15,45.25,54.75,Stable Meristem
+Sugarcane,Standard Cultivar,80,3,45.35,54.65,Stable Meristem
+Sugarcane,Standard Cultivar,80,6,46.7,53.3,Stable Meristem
+Sugarcane,Standard Cultivar,80,9,48.05,51.95,Stable Meristem
+Sugarcane,Standard Cultivar,80,12,49.4,50.6,Stable Meristem
+Sugarcane,Standard Cultivar,80,15,50.75,49.25,Tipping Point Exceeded (High Risk)
+Sugarcane,Standard Cultivar,90,3,50.85,49.15,Tipping Point Exceeded (High Risk)
+Sugarcane,Standard Cultivar,90,6,52.2,47.8,Tipping Point Exceeded (High Risk)
+Sugarcane,Standard Cultivar,90,9,53.55,46.45,Tipping Point Exceeded (High Risk)
+Sugarcane,Standard Cultivar,90,12,54.9,45.1,Tipping Point Exceeded (High Risk)
+Sugarcane,Standard Cultivar,90,15,56.25,43.75,Tipping Point Exceeded (High Risk)
+Sugarcane,Standard Cultivar,100,3,56.35,43.65,Tipping Point Exceeded (High Risk)
+Sugarcane,Standard Cultivar,100,6,57.7,42.3,Tipping Point Exceeded (High Risk)
+Sugarcane,Standard Cultivar,100,9,59.05,40.95,Tipping Point Exceeded (High Risk)
+Sugarcane,Standard Cultivar,100,12,60.4,39.6,Tipping Point Exceeded (High Risk)
+Sugarcane,Standard Cultivar,100,15,61.75,38.25,Tipping Point Exceeded (High Risk)
+Sugarcane,Climate-Resilient Line (-15% Risk),60,3,29.2,70.8,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),60,6,30.35,69.66,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),60,9,31.49,68.51,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),60,12,32.64,67.36,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),60,15,33.79,66.21,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),70,3,33.87,66.13,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),70,6,35.02,64.98,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),70,9,36.17,63.83,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),70,12,37.31,62.69,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),70,15,38.46,61.54,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),80,3,38.55,61.45,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),80,6,39.7,60.3,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),80,9,40.84,59.16,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),80,12,41.99,58.01,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),80,15,43.14,56.86,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),90,3,43.22,56.78,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),90,6,44.37,55.63,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),90,9,45.52,54.48,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),90,12,46.67,53.33,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),90,15,47.81,52.19,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),100,3,47.9,52.1,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),100,6,49.05,50.95,Stable Meristem
+Sugarcane,Climate-Resilient Line (-15% Risk),100,9,50.19,49.81,Tipping Point Exceeded (High Risk)
+Sugarcane,Climate-Resilient Line (-15% Risk),100,12,51.34,48.66,Tipping Point Exceeded (High Risk)
+Sugarcane,Climate-Resilient Line (-15% Risk),100,15,52.49,47.51,Tipping Point Exceeded (High Risk)
+Banana,Standard Cultivar,60,3,34.35,65.65,Stable Meristem
+Banana,Standard Cultivar,60,6,35.7,64.3,Stable Meristem
+Banana,Standard Cultivar,60,9,37.05,62.95,Stable Meristem
+Banana,Standard Cultivar,60,12,38.4,61.6,Stable Meristem
+Banana,Standard Cultivar,60,15,39.75,60.25,Stable Meristem
+Banana,Standard Cultivar,70,3,39.85,60.15,Stable Meristem
+Banana,Standard Cultivar,70,6,41.2,58.8,Stable Meristem
+Banana,Standard Cultivar,70,9,42.55,57.45,Stable Meristem
+Banana,Standard Cultivar,70,12,43.9,56.1,Stable Meristem
+Banana,Standard Cultivar,70,15,45.25,54.75,Stable Meristem
+Banana,Standard Cultivar,80,3,45.35,54.65,Stable Meristem
+Banana,Standard Cultivar,80,6,46.7,53.3,Stable Meristem
+Banana,Standard Cultivar,80,9,48.05,51.95,Stable Meristem
+Banana,Standard Cultivar,80,12,49.4,50.6,Stable Meristem
+Banana,Standard Cultivar,80,15,50.75,49.25,Tipping Point Exceeded (High Risk)
+Banana,Standard Cultivar,90,3,50.85,49.15,Tipping Point Exceeded (High Risk)
+Banana,Standard Cultivar,90,6,52.2,47.8,Tipping Point Exceeded (High Risk)
+Banana,Standard Cultivar,90,9,53.55,46.45,Tipping Point Exceeded (High Risk)
+Banana,Standard Cultivar,90,12,54.9,45.1,Tipping Point Exceeded (High Risk)
+Banana,Standard Cultivar,90,15,56.25,43.75,Tipping Point Exceeded (High Risk)
+Banana,Standard Cultivar,100,3,56.35,43.65,Tipping Point Exceeded (High Risk)
+Banana,Standard Cultivar,100,6,57.7,42.3,Tipping Point Exceeded (High Risk)
+Banana,Standard Cultivar,100,9,59.05,40.95,Tipping Point Exceeded (High Risk)
+Banana,Standard Cultivar,100,12,60.4,39.6,Tipping Point Exceeded (High Risk)
+Banana,Standard Cultivar,100,15,61.75,38.25,Tipping Point Exceeded (High Risk)
+Banana,Climate-Resilient Line (-15% Risk),60,3,29.2,70.8,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),60,6,30.35,69.66,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),60,9,31.49,68.51,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),60,12,32.64,67.36,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),60,15,33.79,66.21,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),70,3,33.87,66.13,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),70,6,35.02,64.98,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),70,9,36.17,63.83,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),70,12,37.31,62.69,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),70,15,38.46,61.54,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),80,3,38.55,61.45,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),80,6,39.7,60.3,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),80,9,40.84,59.16,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),80,12,41.99,58.01,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),80,15,43.14,56.86,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),90,3,43.22,56.78,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),90,6,44.37,55.63,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),90,9,45.52,54.48,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),90,12,46.67,53.33,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),90,15,47.81,52.19,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),100,3,47.9,52.1,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),100,6,49.05,50.95,Stable Meristem
+Banana,Climate-Resilient Line (-15% Risk),100,9,50.19,49.81,Tipping Point Exceeded (High Risk)
+Banana,Climate-Resilient Line (-15% Risk),100,12,51.34,48.66,Tipping Point Exceeded (High Risk)
+Banana,Climate-Resilient Line (-15% Risk),100,15,52.49,47.51,Tipping Point Exceeded (High Risk)
