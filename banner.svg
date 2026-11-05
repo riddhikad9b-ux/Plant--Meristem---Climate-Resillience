@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b2233"/>
+      <stop offset="0.55" stop-color="#0f3a4f"/>
+      <stop offset="1" stop-color="#145a6b"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4fc3f7" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0277bd" stop-opacity="0.55"/>
+    </linearGradient>
+    <style>
+      .t1 { fill: #eaf7fb; font-size: 38px; font-weight: 700; }
+      .t2 { fill: #9be7c4; font-size: 19px; font-weight: 500; }
+      .t3 { fill: #8fb9c9; font-size: 14px; letter-spacing: 1.5px; }
+      .tag { fill: #0b2233; font-size: 13px; font-weight: 700; }
+      .ax { fill: #8fb9c9; font-size: 12px; }
+      .wave { animation: wave 6s ease-in-out infinite; }
+      @keyframes wave { 0%,100% { transform: translateX(0); } 50% { transform: translateX(-30px); } }
+      .bub { animation: rise 5s linear infinite; }
+      @keyframes rise { 0% { transform: translateY(0); opacity: 0; } 20% { opacity: .8; } 100% { transform: translateY(-120px); opacity: 0; } }
+    </style>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <text x="48" y="92" class="t3">PLANT MERISTEM CLIMATE RESILIENCE · RICE FLOODING</text>
+  <text x="48" y="140" class="t1">SUB1A under water</text>
+  <text x="48" y="176" class="t2">Does the flood-tolerance gene pause cell division in rice?</text>
+  <g transform="translate(48,206)">
+    <rect width="168" height="30" rx="15" fill="#4fc3f7"/>
+    <text x="84" y="20" text-anchor="middle" class="tag">M202 vs M202(Sub1)</text>
+    <rect x="180" width="206" height="30" rx="15" fill="#9be7c4"/>
+    <text x="283" y="20" text-anchor="middle" class="tag">expansion genes ↓ p=0.003</text>
+    <rect x="398" width="190" height="30" rx="15" fill="#ffcc80"/>
+    <text x="493" y="20" text-anchor="middle" class="tag">cell division: no change</text>
+  </g>
+
+  <!-- result bars -->
+  <g transform="translate(640,58)">
+    <rect width="300" height="186" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#8fb9c9" stroke-opacity="0.3"/>
+    <text x="150" y="24" text-anchor="middle" class="ax">Sub1 − M202 (log2), day 1 underwater</text>
+    <line x1="170" y1="40" x2="170" y2="170" stroke="#8fb9c9"/>
+    <text x="20" y="72" class="ax">anaerobic</text><rect x="170" y="60" width="54" height="16" fill="#4fc3f7"/>
+    <text x="20" y="110" class="ax">cell expansion</text><rect x="131" y="98" width="39" height="16" fill="#9be7c4"/>
+    <text x="20" y="148" class="ax">cell division</text><rect x="170" y="136" width="18" height="16" fill="#8a9ba3"/>
+    <text x="230" y="110" class="ax" style="fill:#9be7c4">p = 0.003</text>
+    <text x="196" y="148" class="ax">n.s.</text>
+  </g>
+
+  <!-- rice plant in water -->
+  <g transform="translate(1080,0)">
+    <path d="M0,280 C-4,220 -2,170 -10,110" stroke="#9be7c4" stroke-width="4" fill="none"/>
+    <path d="M0,280 C6,210 18,160 34,105" stroke="#9be7c4" stroke-width="4" fill="none"/>
+    <path d="M0,280 C-10,215 -30,170 -48,128" stroke="#9be7c4" stroke-width="4" fill="none"/>
+    <path d="M0,280 C3,225 2,180 6,95" stroke="#b5f0d4" stroke-width="3" fill="none"/>
+  </g>
+  <g class="wave">
+    <path d="M960,160 Q1000,150 1040,160 T1120,160 T1200,160 T1280,160 L1280,300 L960,300 Z" fill="url(#water)"/>
+  </g>
+  <g fill="#e1f5fe">
+    <circle class="bub" cx="1060" cy="270" r="3"/>
+    <circle class="bub" cx="1100" cy="280" r="2" style="animation-delay:1.6s"/>
+    <circle class="bub" cx="1140" cy="275" r="2.5" style="animation-delay:3.1s"/>
+  </g>
+</svg>
